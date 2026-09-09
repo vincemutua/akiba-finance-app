@@ -3,4 +3,7 @@ A mobile-first application, with the purpose of income, expense and savings mana
 
 ## Technology Stack
 Programming language - Kotlin
+IDE - Android Studio
+Database - Supabase (PostgreSQL)
+
 
